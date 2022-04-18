@@ -1,0 +1,28 @@
+﻿
+identifier:MEX-INEGI.40.201.01-CPV-2010
+
+title:  Censo de Población y Vivienda 2010.
+
+description:INEGI. Censo de Población y Vivienda 2010. SNIEG. Información de Interés Nacional.<br /><br />Conjunto de indicadores de población y vivienda a nivel localidad de todo el país, provenientes del Censo de Población y Vivienda 2010.
+
+modified: 26/06/2013 12:00:00 a.m.
+
+publisher: Instituto Nacional de Geografía y Estadística, INEGI
+
+mbox: atencion.usuarios@inegi.org.mx
+
+license: https://www.inegi.org.mx/inegi/terminos.html
+
+dataDictionary: https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/fd_iter_2010.pdf
+
+keyword:viviendas particulares, características de las viviendas, personas, características de las personas, censo 2010, iter, localidad, población, hogares, viviendas, indicadores, fecundidad, migración, población indígena, discapacidad, características educativas, características economicas, salud, situación conyugal, religión
+
+contactPoint: Lic. José de Jesús Esquivel de la Rosa, 800 111 4634
+
+temporal: 2010-06-12-2010-06-12
+
+spatial: Sonora
+
+actualPeriodicity: Decenal
+
+Distribution: https://inegi.org.mx/contenidos/masiva/indicadores/programas/ccpv/2010/

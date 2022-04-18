@@ -1,0 +1,563 @@
+﻿id_indicador,nombre,año,notas
+1002000001,Población total,2015,"La información de 2015 corresponde a una estimación de la población total realizada para los ámbitos nacional y entidad federativa con base en la Encuesta Intercensal (EIC) 2015, que permite su comparación con la serie censal. Además de la población residente en viviendas particulares habitadas de la EIC 2015 (119 530 753), incluye una estimación de 407 720 personas en viviendas que no se captaron en dicha encuesta (viviendas colectivas, del Servicio Exterior Mexicano y las que carecen de vivienda). Por esta razón, los datos de 2015 de este indicador no son comparables con los publicados en los productos de la EIC 2015 o con el indicador de Población total en viviendas particulares habitadas."
+1002000001,Población total,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000001,Población total,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000001,Población total,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000001,Población total,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000002,Población total hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000002,Población total hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000002,Población total hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000002,Población total hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000003,Población total mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000003,Población total mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000003,Población total mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000003,Población total mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000004,Porcentaje de población de 15 a 29 años,2015,Corresponde a residentes habituales de viviendas particulares
+1002000004,Porcentaje de población de 15 a 29 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000004,Porcentaje de población de 15 a 29 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000004,Porcentaje de población de 15 a 29 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000004,Porcentaje de población de 15 a 29 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000005,Porcentaje de hombres de 15 a 29 años,2015,Corresponde a residentes habituales de viviendas particulares
+1002000005,Porcentaje de hombres de 15 a 29 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000005,Porcentaje de hombres de 15 a 29 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000005,Porcentaje de hombres de 15 a 29 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000005,Porcentaje de hombres de 15 a 29 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000006,Porcentaje de mujeres de 15 a 29 años,2015,Corresponde a residentes habituales de viviendas particulares
+1002000006,Porcentaje de mujeres de 15 a 29 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000006,Porcentaje de mujeres de 15 a 29 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000006,Porcentaje de mujeres de 15 a 29 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000006,Porcentaje de mujeres de 15 a 29 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000007,Porcentaje de población de 60 y más años,2015,Corresponde a residentes habituales de viviendas particulares
+1002000007,Porcentaje de población de 60 y más años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000007,Porcentaje de población de 60 y más años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000007,Porcentaje de población de 60 y más años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000007,Porcentaje de población de 60 y más años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000008,Porcentaje de hombres de 60 y más años,2015,Corresponde a residentes habituales de viviendas particulares
+1002000008,Porcentaje de hombres de 60 y más años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000008,Porcentaje de hombres de 60 y más años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000008,Porcentaje de hombres de 60 y más años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000008,Porcentaje de hombres de 60 y más años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000009,Porcentaje de mujeres de 60 y más años,2015,Corresponde a residentes habituales de viviendas particulares
+1002000009,Porcentaje de mujeres de 60 y más años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000009,Porcentaje de mujeres de 60 y más años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000009,Porcentaje de mujeres de 60 y más años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000009,Porcentaje de mujeres de 60 y más años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000010,Edad mediana,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000010,Edad mediana,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000010,Edad mediana,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000010,Edad mediana,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000011,Edad mediana hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000011,Edad mediana hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000011,Edad mediana hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000011,Edad mediana hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000012,Edad mediana mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000012,Edad mediana mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000012,Edad mediana mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000012,Edad mediana mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000013,Promedio de hijos nacidos vivos de las mujeres de 12 años y más,2010,Excluye a la población que no especificó la edad o el número de hijos nacidos vivos.
+1002000013,Promedio de hijos nacidos vivos de las mujeres de 12 años y más,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000013,Promedio de hijos nacidos vivos de las mujeres de 12 años y más,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000014,Población en hogares censales,2020,La información está referida al 15 de marzo de 2020.
+1002000014,Población en hogares censales,2015,La información está referida al 15 de marzo de 2015.
+1002000014,Población en hogares censales,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000014,Población en hogares censales,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000014,Población en hogares censales,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000015,Población en hogares familiares,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000015,Población en hogares familiares,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000015,Población en hogares familiares,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000016,Población en hogares no familiares,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000016,Población en hogares no familiares,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000016,Población en hogares no familiares,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000018,Hogares censales,2020,La información está referida al 15 de marzo de 2020.
+1002000018,Hogares censales,2015,La información está referida al 15 de marzo de 2015.
+1002000018,Hogares censales,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000018,Hogares censales,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000018,Hogares censales,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000019,Hogares con jefatura masculina,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000019,Hogares con jefatura masculina,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000019,Hogares con jefatura masculina,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000020,Hogares con jefatura femenina,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000020,Hogares con jefatura femenina,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000020,Hogares con jefatura femenina,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000021,Tamaño promedio de los hogares censales,2020,Personas por hogar.
+1002000021,Tamaño promedio de los hogares censales,2015,Personas por hogar.
+1002000021,Tamaño promedio de los hogares censales,2010,Personas por hogar.
+1002000021,Tamaño promedio de los hogares censales,2005,Personas por hogar.
+1002000021,Tamaño promedio de los hogares censales,2000,Personas por hogar.
+1002000021,Tamaño promedio de los hogares censales,1995,Personas por hogar.
+1002000022,Tamaño promedio de los hogares con jefe hombre,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000022,Tamaño promedio de los hogares con jefe hombre,2005,Personas por hogar.
+1002000022,Tamaño promedio de los hogares con jefe hombre,2000,Personas por hogar.
+1002000022,Tamaño promedio de los hogares con jefe hombre,1995,Personas por hogar.
+1002000023,Tamaño promedio de los hogares con jefe mujer,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000023,Tamaño promedio de los hogares con jefe mujer,2005,Personas por hogar.
+1002000023,Tamaño promedio de los hogares con jefe mujer,2000,Personas por hogar.
+1002000023,Tamaño promedio de los hogares con jefe mujer,1995,Personas por hogar.
+1002000024,Relación hombres-mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000024,Relación hombres-mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000024,Relación hombres-mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000024,Relación hombres-mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000041,Porcentaje de personas de 15 años y más alfabetas,2015,La información está referida al 15 de marzo de 2015.
+1002000041,Porcentaje de personas de 15 años y más alfabetas,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000041,Porcentaje de personas de 15 años y más alfabetas,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000050,Tasa de alfabetización de las personas de 15 a 24 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000055,Población de edad no especificada,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000055,Población de edad no especificada,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000055,Población de edad no especificada,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000055,Población de edad no especificada,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000055,Población de edad no especificada,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000056,Población de edad no especificada. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000056,Población de edad no especificada. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000056,Población de edad no especificada. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000056,Población de edad no especificada. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000056,Población de edad no especificada. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000057,Población de edad no especificada. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000057,Población de edad no especificada. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000057,Población de edad no especificada. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000057,Población de edad no especificada. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000057,Población de edad no especificada. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000058,Población de 0 a 4 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000058,Población de 0 a 4 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000058,Población de 0 a 4 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000058,Población de 0 a 4 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000058,Población de 0 a 4 años,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000059,Población de 0 a 4 años. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000059,Población de 0 a 4 años. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000059,Población de 0 a 4 años. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000059,Población de 0 a 4 años. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000059,Población de 0 a 4 años. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000060,Población de 0 a 4 años. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000060,Población de 0 a 4 años. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000060,Población de 0 a 4 años. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000060,Población de 0 a 4 años. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000060,Población de 0 a 4 años. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000061,Población de 10 a 14 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000061,Población de 10 a 14 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000061,Población de 10 a 14 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000061,Población de 10 a 14 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000061,Población de 10 a 14 años,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000062,Población de 10 a 14 años. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000062,Población de 10 a 14 años. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000062,Población de 10 a 14 años. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000062,Población de 10 a 14 años. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000062,Población de 10 a 14 años. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000063,Población de 10 a 14 años. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000063,Población de 10 a 14 años. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000063,Población de 10 a 14 años. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000063,Población de 10 a 14 años. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000063,Población de 10 a 14 años. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000064,Población de 100 años y más,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000064,Población de 100 años y más,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000064,Población de 100 años y más,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000064,Población de 100 años y más,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000064,Población de 100 años y más,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000065,Población de 100 años y más. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000065,Población de 100 años y más. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000065,Población de 100 años y más. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000065,Población de 100 años y más. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000065,Población de 100 años y más. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000066,Población de 100 años y más. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000066,Población de 100 años y más. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000066,Población de 100 años y más. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000066,Población de 100 años y más. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000066,Población de 100 años y más. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000067,Población de 15 a 19 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000067,Población de 15 a 19 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000067,Población de 15 a 19 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000067,Población de 15 a 19 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000067,Población de 15 a 19 años,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000068,Población de 15 a 19 años. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000068,Población de 15 a 19 años. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000068,Población de 15 a 19 años. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000068,Población de 15 a 19 años. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000068,Población de 15 a 19 años. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000069,Población de 15 a 19 años. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000069,Población de 15 a 19 años. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000069,Población de 15 a 19 años. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000069,Población de 15 a 19 años. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000069,Población de 15 a 19 años. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000070,Población de 20 a 24 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000070,Población de 20 a 24 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000070,Población de 20 a 24 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000070,Población de 20 a 24 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000070,Población de 20 a 24 años,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000071,Población de 20 a 24 años. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000071,Población de 20 a 24 años. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000071,Población de 20 a 24 años. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000071,Población de 20 a 24 años. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000071,Población de 20 a 24 años. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000072,Población de 20 a 24 años. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000072,Población de 20 a 24 años. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000072,Población de 20 a 24 años. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000072,Población de 20 a 24 años. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000072,Población de 20 a 24 años. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000073,Población de 25 a 29 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000073,Población de 25 a 29 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000073,Población de 25 a 29 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000073,Población de 25 a 29 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000073,Población de 25 a 29 años,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000074,Población de 25 a 29 años. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000074,Población de 25 a 29 años. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000074,Población de 25 a 29 años. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000074,Población de 25 a 29 años. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000074,Población de 25 a 29 años. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000075,Población de 25 a 29 años. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000075,Población de 25 a 29 años. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000075,Población de 25 a 29 años. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000075,Población de 25 a 29 años. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000075,Población de 25 a 29 años. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000076,Población de 30 a 34 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000076,Población de 30 a 34 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000076,Población de 30 a 34 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000076,Población de 30 a 34 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000076,Población de 30 a 34 años,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000077,Población de 30 a 34 años. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000077,Población de 30 a 34 años. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000077,Población de 30 a 34 años. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000077,Población de 30 a 34 años. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000077,Población de 30 a 34 años. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000078,Población de 30 a 34 años. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000078,Población de 30 a 34 años. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000078,Población de 30 a 34 años. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000078,Población de 30 a 34 años. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000078,Población de 30 a 34 años. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000079,Población de 35 a 39 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000079,Población de 35 a 39 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000079,Población de 35 a 39 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000079,Población de 35 a 39 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000079,Población de 35 a 39 años,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000080,Población de 35 a 39 años. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000080,Población de 35 a 39 años. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000080,Población de 35 a 39 años. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000080,Población de 35 a 39 años. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000080,Población de 35 a 39 años. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000081,Población de 35 a 39 años. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000081,Población de 35 a 39 años. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000081,Población de 35 a 39 años. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000081,Población de 35 a 39 años. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000081,Población de 35 a 39 años. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000082,Población de 40 a 44 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000082,Población de 40 a 44 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000082,Población de 40 a 44 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000082,Población de 40 a 44 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000082,Población de 40 a 44 años,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000083,Población de 40 a 44 años. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000083,Población de 40 a 44 años. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000083,Población de 40 a 44 años. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000083,Población de 40 a 44 años. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000083,Población de 40 a 44 años. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000084,Población de 40 a 44 años. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000084,Población de 40 a 44 años. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000084,Población de 40 a 44 años. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000084,Población de 40 a 44 años. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000084,Población de 40 a 44 años. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000085,Población de 45 a 49 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000085,Población de 45 a 49 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000085,Población de 45 a 49 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000085,Población de 45 a 49 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000085,Población de 45 a 49 años,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000086,Población de 45 a 49 años. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000086,Población de 45 a 49 años. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000086,Población de 45 a 49 años. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000086,Población de 45 a 49 años. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000086,Población de 45 a 49 años. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000087,Población de 45 a 49 años. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000087,Población de 45 a 49 años. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000087,Población de 45 a 49 años. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000087,Población de 45 a 49 años. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000087,Población de 45 a 49 años. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000088,Población de 5 a 9 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000088,Población de 5 a 9 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000088,Población de 5 a 9 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000088,Población de 5 a 9 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000088,Población de 5 a 9 años,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000089,Población de 5 a 9 años. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000089,Población de 5 a 9 años. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000089,Población de 5 a 9 años. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000089,Población de 5 a 9 años. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000089,Población de 5 a 9 años. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000090,Población de 5 a 9 años. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000090,Población de 5 a 9 años. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000090,Población de 5 a 9 años. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000090,Población de 5 a 9 años. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000090,Población de 5 a 9 años. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000091,Población de 50 a 54 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000091,Población de 50 a 54 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000091,Población de 50 a 54 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000091,Población de 50 a 54 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000091,Población de 50 a 54 años,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000092,Población de 50 a 54 años. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000092,Población de 50 a 54 años. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000092,Población de 50 a 54 años. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000092,Población de 50 a 54 años. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000092,Población de 50 a 54 años. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000093,Población de 50 a 54 años. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000093,Población de 50 a 54 años. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000093,Población de 50 a 54 años. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000093,Población de 50 a 54 años. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000093,Población de 50 a 54 años. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000094,Población de 55 a 59 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000094,Población de 55 a 59 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000094,Población de 55 a 59 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000094,Población de 55 a 59 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000094,Población de 55 a 59 años,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000095,Población de 55 a 59 años. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000095,Población de 55 a 59 años. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000095,Población de 55 a 59 años. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000095,Población de 55 a 59 años. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000095,Población de 55 a 59 años. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000096,Población de 55 a 59 años. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000096,Población de 55 a 59 años. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000096,Población de 55 a 59 años. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000096,Población de 55 a 59 años. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000096,Población de 55 a 59 años. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000097,Población de 60 a 64 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000097,Población de 60 a 64 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000097,Población de 60 a 64 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000097,Población de 60 a 64 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000097,Población de 60 a 64 años,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000098,Población de 60 a 64 años. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000098,Población de 60 a 64 años. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000098,Población de 60 a 64 años. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000098,Población de 60 a 64 años. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000098,Población de 60 a 64 años. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000099,Población de 60 a 64 años. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000099,Población de 60 a 64 años. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000099,Población de 60 a 64 años. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000099,Población de 60 a 64 años. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000099,Población de 60 a 64 años. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000100,Población de 65 a 69 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000100,Población de 65 a 69 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000100,Población de 65 a 69 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000100,Población de 65 a 69 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000100,Población de 65 a 69 años,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000101,Población de 65 a 69 años. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000101,Población de 65 a 69 años. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000101,Población de 65 a 69 años. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000101,Población de 65 a 69 años. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000101,Población de 65 a 69 años. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000102,Población de 65 a 69 años. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000102,Población de 65 a 69 años. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000102,Población de 65 a 69 años. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000102,Población de 65 a 69 años. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000102,Población de 65 a 69 años. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000103,Población de 70 a 74 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000103,Población de 70 a 74 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000103,Población de 70 a 74 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000103,Población de 70 a 74 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000103,Población de 70 a 74 años,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000104,Población de 70 a 74 años. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000104,Población de 70 a 74 años. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000104,Población de 70 a 74 años. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000104,Población de 70 a 74 años. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000104,Población de 70 a 74 años. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000105,Población de 70 a 74 años. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000105,Población de 70 a 74 años. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000105,Población de 70 a 74 años. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000105,Población de 70 a 74 años. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000105,Población de 70 a 74 años. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000106,Población de 75 a 79 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000106,Población de 75 a 79 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000106,Población de 75 a 79 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000106,Población de 75 a 79 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000106,Población de 75 a 79 años,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000107,Población de 75 a 79 años. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000107,Población de 75 a 79 años. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000107,Población de 75 a 79 años. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000107,Población de 75 a 79 años. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000107,Población de 75 a 79 años. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000108,Población de 75 a 79 años. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000108,Población de 75 a 79 años. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000108,Población de 75 a 79 años. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000108,Población de 75 a 79 años. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000108,Población de 75 a 79 años. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000109,Población de 80 a 84 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000109,Población de 80 a 84 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000109,Población de 80 a 84 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000109,Población de 80 a 84 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000109,Población de 80 a 84 años,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000110,Población de 80 a 84 años. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000110,Población de 80 a 84 años. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000110,Población de 80 a 84 años. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000110,Población de 80 a 84 años. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000110,Población de 80 a 84 años. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000111,Población de 80 a 84 años. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000111,Población de 80 a 84 años. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000111,Población de 80 a 84 años. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000111,Población de 80 a 84 años. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000111,Población de 80 a 84 años. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000112,Población de 85 a 89 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000112,Población de 85 a 89 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000112,Población de 85 a 89 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000112,Población de 85 a 89 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000112,Población de 85 a 89 años,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000113,Población de 85 a 89 años. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000113,Población de 85 a 89 años. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000113,Población de 85 a 89 años. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000113,Población de 85 a 89 años. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000113,Población de 85 a 89 años. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000114,Población de 85 a 89 años. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000114,Población de 85 a 89 años. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000114,Población de 85 a 89 años. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000114,Población de 85 a 89 años. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000114,Población de 85 a 89 años. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000115,Población de 90 a 94 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000115,Población de 90 a 94 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000115,Población de 90 a 94 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000115,Población de 90 a 94 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000115,Población de 90 a 94 años,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000116,Población de 90 a 94 años. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000116,Población de 90 a 94 años. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000116,Población de 90 a 94 años. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000116,Población de 90 a 94 años. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000116,Población de 90 a 94 años. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000117,Población de 90 a 94 años. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000117,Población de 90 a 94 años. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000117,Población de 90 a 94 años. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000117,Población de 90 a 94 años. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000117,Población de 90 a 94 años. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000118,Población de 95 a 99 años,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000118,Población de 95 a 99 años,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000118,Población de 95 a 99 años,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000118,Población de 95 a 99 años,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000118,Población de 95 a 99 años,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000119,Población de 95 a 99 años. Hombres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000119,Población de 95 a 99 años. Hombres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000119,Población de 95 a 99 años. Hombres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000119,Población de 95 a 99 años. Hombres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000119,Población de 95 a 99 años. Hombres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000120,Población de 95 a 99 años. Mujeres,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000120,Población de 95 a 99 años. Mujeres,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000120,Población de 95 a 99 años. Mujeres,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000120,Población de 95 a 99 años. Mujeres,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000120,Población de 95 a 99 años. Mujeres,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000127,Relación de dependencia,2010,La información es censal y está referida al 12 de junio de 2010.
+1002000127,Relación de dependencia,2005,La información es censal y está referida al 17 de octubre del 2005.
+1002000127,Relación de dependencia,2000,La información es censal y está referida al 14 de febrero del 2000.
+1002000127,Relación de dependencia,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1002000127,Relación de dependencia,1990,La información es censal y está referida al 12 de marzo de 1990.
+1002000127,Relación de dependencia,1980,La información es censal y está referida al 4 de junio de 1980.
+1002000127,Relación de dependencia,1970,La información es censal y está referida al 28 de enero de 1970.
+1002000127,Relación de dependencia,1960,La información es censal y está referida al 8 de junio de 1960.
+1002000127,Relación de dependencia,1950,La información es censal y está referida al 6 de junio de 1950.
+1002000127,Relación de dependencia,1940,La información es censal y está referida al 6 de marzo de 1940.
+1002000127,Relación de dependencia,1930,La información es censal y está referida al 15 de mayo de 1930.
+1002000127,Relación de dependencia,1921,La información es censal y está referida al 30 de noviembre de 1921.
+1002000127,Relación de dependencia,1910,La información es censal y está referida al 27 de octubre de 1910.
+1003000001,Total de viviendas particulares habitadas,2010,La información es censal y está referida al 12 de junio de 2010.
+1003000001,Total de viviendas particulares habitadas,2005,La información es censal y está referida al 17 de octubre del 2005.
+1003000001,Total de viviendas particulares habitadas,2000,La información es censal y está referida al 14 de febrero del 2000.
+1003000001,Total de viviendas particulares habitadas,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1003000011,Viviendas particulares habitadas,2010,La información es censal y está referida al 12 de junio de 2010.
+1003000011,Viviendas particulares habitadas,2005,La información es censal y está referida al 17 de octubre del 2005.
+1003000011,Viviendas particulares habitadas,2000,La información es censal y está referida al 14 de febrero del 2000.
+1003000011,Viviendas particulares habitadas,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1003000015,Promedio de ocupantes en viviendas particulares habitadas,2010,La información es censal y está referida al 12 de junio de 2010.
+1003000015,Promedio de ocupantes en viviendas particulares habitadas,2005,La información es censal y está referida al 17 de octubre del 2005.
+1003000015,Promedio de ocupantes en viviendas particulares habitadas,2000,La información es censal y está referida al 14 de febrero del 2000.
+1003000015,Promedio de ocupantes en viviendas particulares habitadas,1995,Excluye viviendas sin información de ocupantes.
+1003000017,Viviendas particulares habitadas que disponen de energía eléctrica,2010,La información es censal y está referida al 12 de junio de 2010.
+1003000017,Viviendas particulares habitadas que disponen de energía eléctrica,2005,La información es censal y está referida al 17 de octubre del 2005.
+1003000017,Viviendas particulares habitadas que disponen de energía eléctrica,2000,La información es censal y está referida al 14 de febrero del 2000.
+1003000017,Viviendas particulares habitadas que disponen de energía eléctrica,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1003000018,Viviendas particulares habitadas que disponen de agua de la red pública en el ámbito de la vivienda,2010,La información es censal y está referida al 12 de junio de 2010.
+1003000018,Viviendas particulares habitadas que disponen de agua de la red pública en el ámbito de la vivienda,2005,La información es censal y está referida al 17 de octubre del 2005.
+1003000018,Viviendas particulares habitadas que disponen de agua de la red pública en el ámbito de la vivienda,2000,La información es censal y está referida al 14 de febrero del 2000.
+1003000018,Viviendas particulares habitadas que disponen de agua de la red pública en el ámbito de la vivienda,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1003000019,Viviendas particulares habitadas que disponen de drenaje,2010,La información es censal y está referida al 12 de junio de 2010.
+1003000019,Viviendas particulares habitadas que disponen de drenaje,2005,La información es censal y está referida al 17 de octubre del 2005.
+1003000019,Viviendas particulares habitadas que disponen de drenaje,2000,La información es censal y está referida al 14 de febrero del 2000.
+1003000019,Viviendas particulares habitadas que disponen de drenaje,1995,La información es censal y está referida al 5 de noviembre de 1995.
+1003000020,Viviendas particulares habitadas que disponen de excusado o sanitario,2010,La información es censal y está referida al 12 de junio de 2010.
+1003000020,Viviendas particulares habitadas que disponen de excusado o sanitario,2005,La información es censal y está referida al 17 de octubre del 2005.
+1003000020,Viviendas particulares habitadas que disponen de excusado o sanitario,2000,La información es censal y está referida al 14 de febrero del 2000.
+1003000023,Viviendas particulares habitadas que disponen de lavadora,2010,La información es censal y está referida al 12 de junio de 2010.
+1003000023,Viviendas particulares habitadas que disponen de lavadora,2005,La información es censal y está referida al 17 de octubre del 2005.
+1003000023,Viviendas particulares habitadas que disponen de lavadora,2000,La información es censal y está referida al 14 de febrero del 2000.
+1003000024,Viviendas particulares habitadas que disponen de computadora,2010,La información es censal y está referida al 12 de junio de 2010.
+1003000024,Viviendas particulares habitadas que disponen de computadora,2005,La información es censal y está referida al 17 de octubre del 2005.
+1003000024,Viviendas particulares habitadas que disponen de computadora,2000,La información es censal y está referida al 14 de febrero del 2000.
+1004000001,Población derechohabiente a servicios de salud,2010,Excluye a la población que no especificó derechohabiencia.
+1004000001,Población derechohabiente a servicios de salud,2005,"La suma de la población derechohabiente en las distintas instituciones de salud puede ser mayor al total de derechohabientes, ya que hay población que tiene derecho a más de una institución de salud."
+1004000001,Población derechohabiente a servicios de salud,2000,La información es censal y está referida al 14 de febrero del 2000.
+1005000012,Población de 5 años y más que asiste a la escuela,2010,La información es censal y está referida al 12 de junio de 2010.
+1005000012,Población de 5 años y más que asiste a la escuela,2005,La información es censal y está referida al 17 de octubre del 2005.
+1005000012,Población de 5 años y más que asiste a la escuela,2000,La información es censal y está referida al 14 de febrero del 2000.
+1005000038,Grado promedio de escolaridad de la población de 15 y más años,2015,La información está referida al 15 de marzo de 2015. Para el cálculo se excluye a la población con escolaridad no especificada.
+1005000038,Grado promedio de escolaridad de la población de 15 y más años,2010,Excluye a la población con escolaridad no especificada.
+1005000038,Grado promedio de escolaridad de la población de 15 y más años,2005,La información es censal y está referida al 17 de octubre del 2005. Para el cálculo se excluye a las personas que no especificaron los grados aprobados.
+1005000038,Grado promedio de escolaridad de la población de 15 y más años,2000,La información es censal y está referida al 14 de febrero del 2000. Para el cálculo se excluye a la población con grados no especificados en algún nivel y a la población con nivel de escolaridad no especificado.
+1005000039,Población de 5 años y más hablante de lengua indígena,2010,La información es censal y está referida al 12 de junio de 2010.
+1005000039,Población de 5 años y más hablante de lengua indígena,2005,La información es censal y está referida al 17 de octubre del 2005.
+1005000039,Población de 5 años y más hablante de lengua indígena,2000,La información es censal y está referida al 14 de febrero del 2000.
+1005000039,Población de 5 años y más hablante de lengua indígena,1995,La información es censal y está referida al 5 de noviembre de 1995.
+6200205239,Población de 15 años y más con algún grado aprobado en educación básica,2010,"Se incluye a la población con algún grado cursado en Preescolar, primaria, secundaria y estudios técnicos o comerciales con algún grado aprobado en primaria"
+6200205239,Población de 15 años y más con algún grado aprobado en educación básica,2000,"Se incluye a la población con algún grado cursado en Preescolar, primaria, secundaria y estudios técnicos o comerciales con algún grado aprobado en primaria"
+6200205242,Población de 24 años y más con algún grado aprobado en estudios superiores,2010,"Incluye a la población con algún grado aprobado en: Estudios tecnicos y comerciales con preparatoria terminada, Normal de licenciatura, Licenciatura, Maestría y Doctorado"
+6200205242,Población de 24 años y más con algún grado aprobado en estudios superiores,2000,"Incluye a la población con algún grado aprobado en: Estudios tecnicos y comerciales con preparatoria terminada, Normal de licenciatura, Licenciatura, Maestría y Doctorado"
+6200205242,Población de 24 años y más con algún grado aprobado en estudios superiores,1990,"Incluye a la población con algún grado aprobado en: Estudios tecnicos y comerciales con preparatoria terminada, Normal de licenciatura, Licenciatura, Maestría y Doctorado"
+6200205251,Promedio de hijos nacidos vivos de las mujeres de 12 años y más casada sólo religiosamente,2010,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  12 de marzo (1990)
+6200205251,Promedio de hijos nacidos vivos de las mujeres de 12 años y más casada sólo religiosamente,2000,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  14 de febrero (2000)
+6200205252,Población de 5 años y más inmigrante,2010,Excluye a la población que en junio del 2005 residia en otro país y a la que no especificó su lugar de residencia en esa fecha.
+6200205252,Población de 5 años y más inmigrante,2000,Excluye a la población que en enero de 1995 residia en otro país y a la que no especificó su lugar de residencia en esa fecha.
+6200205255,Porcentaje de la población migrante internacional destino otro país,2010,"Los porcentajes están calculados con base al total de la población migrante internacional. Migración según lugar de residencia cinco años antes, entre junio de 2005 y junio de 2010. Debido al redondeo de las cifras, la suma de los porcentajes puede no coincidir con el 100.0%. Cifras correspondientes al 12 de junio."
+6200205255,Porcentaje de la población migrante internacional destino otro país,2000,"Los porcentajes están calculados con base al total de la población migrante internacional. Migración según lugar de residencia cinco años antes, entre enero de 1995 y febrero de 2000. Debido al redondeo de las cifras, la suma de los porcentajes puede no coincidir con el 100.0%. Cifras correspondientes al 12 de junio."
+6200205258,Promedio de hijos nacidos vivos de las mujeres de 12 años y más solteras,2010,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  12 de marzo (1990)
+6200205258,Promedio de hijos nacidos vivos de las mujeres de 12 años y más solteras,2000,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  12 de marzo (1990)
+6200205258,Promedio de hijos nacidos vivos de las mujeres de 12 años y más solteras,1990,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  12 de marzo (1990)
+6200205259,Población nacida en otro país residente en México,2010,Cifras correspondientes a las siguientes fechas censales: 12 de junio (2010).
+6200205259,Población nacida en otro país residente en México,2000,Cifras correspondientes a las siguientes fechas censales: 14 de febrero (2000).
+6200205259,Población nacida en otro país residente en México,1990,Cifras correspondientes a las siguientes fechas censales: 12 de marzo (1990).
+6200205259,Población nacida en otro país residente en México,1970,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205259,Población nacida en otro país residente en México,1950,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205262,Saldo neto migratorio interno de acuerdo con el lugar de residencia 5 años atrás de la población de 5 años y más,2000,Excluye a la población que en junio del 2005 residia en otro país y a la que no especificó su lugar de residencia en esa fecha.
+6200205264,Porcentaje de la población migrante internacional destino no especificado,2010,"Los porcentajes están calculados con base al total de la población migrante internacional. Migración según lugar de residencia cinco años antes, entre junio de 2005 y junio de 2010. Debido al redondeo de las cifras, la suma de los porcentajes puede no coincidir con el 100.0%. Cifras correspondientes al 12 de junio."
+6200205264,Porcentaje de la población migrante internacional destino no especificado,2000,"Los porcentajes están calculados con base al total de la población migrante internacional. Migración según lugar de residencia cinco años antes, entre enero de 1995 y febrero de 2000. Debido al redondeo de las cifras, la suma de los porcentajes puede no coincidir con el 100.0%. Cifras correspondientes al 12 de junio."
+6200205266,Promedio de hijos nacidos vivos de las mujeres de 12 años y más casada civil y religiosamente,2010,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  12 de marzo (1990)
+6200205266,Promedio de hijos nacidos vivos de las mujeres de 12 años y más casada civil y religiosamente,2000,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  12 de marzo (1990)
+6200205267,Promedio de hijos nacidos vivos de las mujeres de 12 años y más separadas,2010,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  12 de marzo (1990)
+6200205267,Promedio de hijos nacidos vivos de las mujeres de 12 años y más separadas,2000,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  12 de marzo (1990)
+6200205267,Promedio de hijos nacidos vivos de las mujeres de 12 años y más separadas,1990,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  12 de marzo (1990)
+6200205268,Población nacida en otro país residente en México hombres,2010,Cifras correspondientes a las siguientes fechas censales: 12 de junio (2010).
+6200205268,Población nacida en otro país residente en México hombres,2000,Cifras correspondientes a las siguientes fechas censales: 14 de febrero (2000).
+6200205268,Población nacida en otro país residente en México hombres,1990,Cifras correspondientes a las siguientes fechas censales: 12 de marzo (1990).
+6200205272,Porcentaje de población nacida en otro país residente en México,2010,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205272,Porcentaje de población nacida en otro país residente en México,2000,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205272,Porcentaje de población nacida en otro país residente en México,1990,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205272,Porcentaje de población nacida en otro país residente en México,1970,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205272,Porcentaje de población nacida en otro país residente en México,1950,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205274,Porcentaje de población masculina nacida en otro país residente en México,2010,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205274,Porcentaje de población masculina nacida en otro país residente en México,2000,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205274,Porcentaje de población masculina nacida en otro país residente en México,1990,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205274,Porcentaje de población masculina nacida en otro país residente en México,1970,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205274,Porcentaje de población masculina nacida en otro país residente en México,1950,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205275,Promedio de hijos nacidos vivos de las mujeres de 12 años y más divorciadas,2010,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  12 de marzo (1990)
+6200205275,Promedio de hijos nacidos vivos de las mujeres de 12 años y más divorciadas,2000,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  12 de marzo (1990)
+6200205275,Promedio de hijos nacidos vivos de las mujeres de 12 años y más divorciadas,1990,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  12 de marzo (1990)
+6200205276,Promedio de hijos nacidos vivos de las mujeres de 12 años y más en unión libre,2010,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  12 de marzo (1990)
+6200205276,Promedio de hijos nacidos vivos de las mujeres de 12 años y más en unión libre,2000,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  12 de marzo (1990)
+6200205276,Promedio de hijos nacidos vivos de las mujeres de 12 años y más en unión libre,1990,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  12 de marzo (1990)
+6200205276,Promedio de hijos nacidos vivos de las mujeres de 12 años y más en unión libre,1970,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales: 28 de enero (1970)
+6200205277,Población de 5 años y más emigrante,2000,Excluye a la población que en junio del 2005 residia en otro país y a la que no especificó su lugar de residencia en esa fecha.
+6200205279,Promedio de hijos nacidos vivos de las mujeres de 12 años y más casada sólo por lo civil,2010,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  12 de marzo (1990)
+6200205279,Promedio de hijos nacidos vivos de las mujeres de 12 años y más casada sólo por lo civil,2000,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  14 de febrero (2000)
+6200205282,Porcentaje de población femenina nacida en otro país residente en México,2010,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205282,Porcentaje de población femenina nacida en otro país residente en México,2000,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205282,Porcentaje de población femenina nacida en otro país residente en México,1990,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205282,Porcentaje de población femenina nacida en otro país residente en México,1970,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205282,Porcentaje de población femenina nacida en otro país residente en México,1950,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205283,Promedio de hijos nacidos vivos de las mujeres de 12 años y más viudas,2010,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  12 de marzo (1990)
+6200205283,Promedio de hijos nacidos vivos de las mujeres de 12 años y más viudas,2000,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  14 de febrero (2000)
+6200205283,Promedio de hijos nacidos vivos de las mujeres de 12 años y más viudas,1990,Excluye a las mujeres que no especificaron si han tenido hijos y a las que sí han tenido hijos pero no especificaron el total de ellos. Cifras correspondientes a las siguientes fechas censales:  12 de marzo (1990)
+6200205284,Población nacida en otro país residente en México mujeres,2010,Cifras correspondientes a las siguientes fechas censales: 12 de junio (2010).
+6200205284,Población nacida en otro país residente en México mujeres,2000,Cifras correspondientes a las siguientes fechas censales: 14 de febrero (2000).
+6200205284,Población nacida en otro país residente en México mujeres,1990,Cifras correspondientes a las siguientes fechas censales: 12 de marzo (1990).
+6200205285,Porcentaje de la población migrante internacional destino Estados Unidos de América,2010,"Los porcentajes están calculados con base al total de la población migrante internacional. Migración según lugar de residencia cinco años antes, entre junio de 2005 y junio de 2010. Debido al redondeo de las cifras, la suma de los porcentajes puede no coincidir con el 100.0%. Cifras correspondientes al 12 de junio."
+6200205285,Porcentaje de la población migrante internacional destino Estados Unidos de América,2000,"Los porcentajes están calculados con base al total de la población migrante internacional. Migración según lugar de residencia cinco años antes, entre enero de 1995 y febrero de 2000. Debido al redondeo de las cifras, la suma de los porcentajes puede no coincidir con el 100.0%. Cifras correspondientes al 12 de junio."
+6200205288,Índice de masculinidad de la población nacida en otro país residente en México,2010,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205288,Índice de masculinidad de la población nacida en otro país residente en México,2000,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205288,Índice de masculinidad de la población nacida en otro país residente en México,1990,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205288,Índice de masculinidad de la población nacida en otro país residente en México,1970,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200205288,Índice de masculinidad de la población nacida en otro país residente en México,1950,Cifras correspondientes a las siguientes fechas censales: 6 de junio (1950); 28 de enero (1970); 12 de marzo (1990); 14 de febrero (2000); y 12 de junio (2010).
+6200240407,Índice de envejecimiento,2015,Número de personas adultas mayores (60 y más años de edad) por cada cien niños y jóvenes (0 a 14 años de edad).
+

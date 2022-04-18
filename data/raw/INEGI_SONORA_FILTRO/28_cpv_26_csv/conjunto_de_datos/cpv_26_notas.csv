@@ -1,0 +1,50 @@
+﻿id_indicador,nombre,nota
+1002000001,Población total,Esta información se actualiza cada cinco años mediante los Censos y Conteos de población y vivienda.
+1002000002,Población total hombres,Esta información se actualiza cada cinco años mediante los Censos y Conteos de población y vivienda.
+1002000003,Población total mujeres,Esta información se actualiza cada cinco años mediante los Censos y Conteos de población y vivienda.
+1002000004,Porcentaje de población de 15 a 29 años,Excluye a la población de edad no especificada.
+1002000005,Porcentaje de hombres de 15 a 29 años,Excluye a la población de edad no especificada.
+1002000006,Porcentaje de mujeres de 15 a 29 años,Excluye a la población de edad no especificada.
+1002000007,Porcentaje de población de 60 y más años,Excluye a la población de edad no especificada.
+1002000008,Porcentaje de hombres de 60 y más años,Excluye a la población de edad no especificada.
+1002000009,Porcentaje de mujeres de 60 y más años,Excluye a la población de edad no especificada.
+1002000010,Edad mediana,"Se refiere a la edad expresada en años y que divide a la población en dos partes iguales, esto es, la edad hasta la cual se acumula el 50% de la población total. Para el cálculo se excluye la población con edad no especificada."
+1002000010,Edad mediana,Cifras correspondientes a las siguientes fechas censales: 14 de febrero (2000); 17 de octubre (2005); y 12 de junio (2010).
+1002000011,Edad mediana hombres,"Se refiere a la edad expresada en años y que divide a la población en dos partes iguales, esto es, la edad hasta la cual se acumula el 50% de la población total. Para el cálculo se excluye la población con edad no especificada."
+1002000012,Edad mediana mujeres,"Se refiere a la edad expresada en años y que divide a la población en dos partes iguales, esto es, la edad hasta la cual se acumula el 50% de la población total. Para el cálculo se excluye la población con edad no especificada."
+1002000014,Población en hogares censales,El concepto Hogares censales aplica a partir de 2010.
+1002000018,Hogares censales,El concepto Hogares censales aplica a partir de 2010.
+1002000021,Tamaño promedio de los hogares censales,El concepto Hogares censales aplica a partir de 2010.
+1002000024,Relación hombres-mujeres,Cifras correspondientes a las siguientes fechas censales: 14 de febrero (2000); 17 de octubre (2005); y 12 de junio (2010).
+1002000024,Relación hombres-mujeres,Se interpreta como el número de hombres por cada cien mujeres.
+1002000127,Relación de dependencia,Los porcentajes representan el número de personas en edades dependientes (0-14 y 65 y más años) por cada cien en edad económicamente productiva (15-64 años).
+1003000001,Total de viviendas particulares habitadas,"Viviendas particulares habitadas de cualquier clase: casa independiente, departamento en edificio, vivienda o cuarto en vecindad, vivienda o cuarto de azotea, local no construido para habitación, vivienda móvil, refugios y clase no especificada.
+Incluye a las viviendas particulares sin información de ocupantes."
+1003000011,Viviendas particulares habitadas,"Excluye viviendas móviles, refugios y locales no construidos para habitación debido a que no se captaron características de estas clases de vivienda.
+Excluye las viviendas sin información de ocupantes."
+1003000017,Viviendas particulares habitadas que disponen de energía eléctrica,"Excluye viviendas en locales no construidos para habitación, viviendas móviles y refugios."
+1003000017,Viviendas particulares habitadas que disponen de energía eléctrica,Excluye viviendas sin información de ocupantes.
+1003000017,Viviendas particulares habitadas que disponen de energía eléctrica,Excluye viviendas que no especificaron si disponen del servicio.
+1003000018,Viviendas particulares habitadas que disponen de agua de la red pública en el ámbito de la vivienda,Excluye viviendas que no especificaron si disponen del servicio.
+1003000018,Viviendas particulares habitadas que disponen de agua de la red pública en el ámbito de la vivienda,Comprende viviendas que disponen de agua de la red del servicio público dentro de la vivienda y fuera de ella pero dentro del terreno.
+1003000018,Viviendas particulares habitadas que disponen de agua de la red pública en el ámbito de la vivienda,Excluye viviendas sin información de ocupantes.
+1003000018,Viviendas particulares habitadas que disponen de agua de la red pública en el ámbito de la vivienda,"Excluye viviendas en locales no construidos para habitación, viviendas móviles y refugios."
+1003000019,Viviendas particulares habitadas que disponen de drenaje,"Excluye viviendas en locales no construidos para habitación, viviendas móviles y refugios."
+1003000019,Viviendas particulares habitadas que disponen de drenaje,Excluye viviendas sin información de ocupantes.
+1003000019,Viviendas particulares habitadas que disponen de drenaje,"Comprende: viviendas que disponen de drenaje conectado a la red pública, a fosa séptica, con desagüe a barranca o  grieta y con desagüe a río, lago o mar."
+1003000019,Viviendas particulares habitadas que disponen de drenaje,Excluye viviendas que no especificaron si disponen del servicio.
+1003000020,Viviendas particulares habitadas que disponen de excusado o sanitario,Excluye viviendas que no especificaron si disponen del servicio.
+1003000020,Viviendas particulares habitadas que disponen de excusado o sanitario,Excluye viviendas sin información de ocupantes.
+1003000020,Viviendas particulares habitadas que disponen de excusado o sanitario,"Excluye viviendas en locales no construidos para habitación, viviendas móviles y refugios."
+1003000023,Viviendas particulares habitadas que disponen de lavadora,"Excluye viviendas en locales no construidos para habitación, viviendas móviles y refugios."
+1003000023,Viviendas particulares habitadas que disponen de lavadora,Excluye viviendas sin información de ocupantes.
+1003000024,Viviendas particulares habitadas que disponen de computadora,Excluye viviendas sin información de ocupantes.
+1003000024,Viviendas particulares habitadas que disponen de computadora,"Excluye viviendas en locales no construidos para habitación, viviendas móviles y refugios."
+1004000001,Población derechohabiente a servicios de salud,Cifras correspondientes a las siguientes fechas censales: 14 de febrero (2000); 17 de octubre (2005); y 12 de junio (2010).
+1005000039,Población de 5 años y más hablante de lengua indígena,Para 2020: La información es censal y está referida al 15 de marzo 2020.
+1005000039,Población de 5 años y más hablante de lengua indígena,Personas de 5 años y más que hablan alguna lengua indígena.
+6200108938,Porcentaje de viviendas con techos de materiales resistentes,"La información corresponde al total de viviendas particulares habitadas. Para 2000, excluye las viviendas del personal del Servicio Exterior Mexicano, refugios y viviendas sin información de ocupantes. Para 2010, excluye locales no construidos para habitación, viviendas móviles, refugios y viviendas sin información de ocupantes. Para 2000, se consideran materiales durables en los techos: losa de concreto, tabique, ladrillo o terrado con viguería; y para 2010, losa de concreto o viguetas con bovedilla. Cifras correspondientes a las siguientes fechas censales: 14 de febrero (2000); y 12 de junio (2010). Este indicador corresponde al porcentaje de viviendas con materiales durables en los techos que calcula el INEGI."
+6200205257,Población de 5 años y más católica,Para 1990: La información está referida al 12 de marzo 1990.  Para 2000: La información está referida al 14 de febrero 2000. Para 2010: La información está referida al 12 de junio 2010. Para 2020: La información está referida al 15 de marzo 2020. Se refiere al grupo religioso católico.
+6200205273,Población de 5 años y más con religión distinta de católica,"Para 1990: La información está referida al 12 de marzo 1990. Comprende: Protestante o evangélica, Judaica y Otras religiones. Para 2000: La información está referida al 14 de febrero 2000. Comprende: Protestantes y evangélicas, Bíblicas no evangélicas, Judaica y Otras religiones. Para 2010: La información está referida al 12 de junio 2010. Comprende: Ortodoxos, Protestantes históricas o reformadas, Pentecostales, Evangélicas, Cristianas, Bíblicas diferentes de evangélicas, Origen oriental, Judaica, Islámica, Raíces étnicas, Espiritualistas y Otras religiones. Para 2020: La información está referida al 15 de marzo 2020. Comprende: Católica ortodoxa, Protestante, Cristiano evangélico, Judía, Islámica, Origen oriental, New Age y Escuelas esotéricas, Raíces étnicas, Raíces afro, Espiritualista, Cultos Populares, Otros movimientos religiosos y Sin adscripción religiosa (creyente)."
+6200205289,Población de 5 años y más sin religión,"Para 1990: La información está referida al 12 de marzo 1990.  Para 2000: La información está referida al 14 de febrero 2000. Para 2010: La información está referida al 12 de junio 2010. Para 2020: La información está referida al 15 de marzo 2020. Comprende: Ninguna religión, Ateos y Agnósticos."
+
